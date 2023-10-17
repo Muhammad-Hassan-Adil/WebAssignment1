@@ -52,7 +52,7 @@ p {
 
 a.bbt {
     border: none;
-    background-color: #00b3b3;
+    background-color: #07b30a;
     margin-bottom: 3%;
     color: #fff;
     padding: 10px 20px;
@@ -63,7 +63,7 @@ a.bbt {
 }
 
 a.bbt:hover {
-    background-color: #008080;
+    background-color: #057107;
 }
 
 .contact-form input,
